@@ -3,6 +3,6 @@
 Project : Quora Questions Pairs
 
 Students : 
--Anabelle Lichou
--Maxime Minard
--Cécile Ledoux
+Anabelle Lichou,
+Maxime Minard
+and Cécile Ledoux
